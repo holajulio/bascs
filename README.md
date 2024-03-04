@@ -1,0 +1,2 @@
+# bascs
+practica de sintesis
